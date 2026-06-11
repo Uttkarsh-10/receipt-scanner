@@ -1,0 +1,301 @@
+merchant,item,category
+Burger King,WHOPPER CHS,Food
+McDonalds,WHOPPER,Food
+KFC,SM FRY,Food
+Dominos,LG FRY,Food
+Pizza Hut,SOFT DRINK,Food
+Starbucks,REGULAR COMBO,Food
+Subway,BIG MAC,Food
+Taco Bell,MCCHICKEN,Food
+Cafe Coffee Day,FRENCH FRIES,Food
+Burger Singh,PEPSI,Food
+Burger King,COKE,Food
+McDonalds,ZINGER BURGER,Food
+KFC,HOT WINGS,Food
+Dominos,PIZZA,Food
+Pizza Hut,GARLIC BREAD,Food
+Starbucks,PASTA,Food
+Subway,CAPPUCCINO,Food
+Taco Bell,LATTE,Food
+Cafe Coffee Day,MOCHA,Food
+Burger Singh,CHICKEN SANDWICH,Food
+Burger King,VEG BURGER,Food
+McDonalds,NUGGETS,Food
+KFC,ONION RINGS,Food
+Dominos,MILKSHAKE,Food
+Pizza Hut,ICED COFFEE,Food
+Starbucks,WHOPPER CHS,Food
+Subway,WHOPPER,Food
+Taco Bell,SM FRY,Food
+Cafe Coffee Day,LG FRY,Food
+Burger Singh,SOFT DRINK,Food
+Burger King,REGULAR COMBO,Food
+McDonalds,BIG MAC,Food
+KFC,MCCHICKEN,Food
+Dominos,FRENCH FRIES,Food
+Pizza Hut,PEPSI,Food
+Starbucks,COKE,Food
+Subway,ZINGER BURGER,Food
+Taco Bell,HOT WINGS,Food
+Cafe Coffee Day,PIZZA,Food
+Burger Singh,GARLIC BREAD,Food
+Burger King,PASTA,Food
+McDonalds,CAPPUCCINO,Food
+KFC,LATTE,Food
+Dominos,MOCHA,Food
+Pizza Hut,CHICKEN SANDWICH,Food
+Starbucks,VEG BURGER,Food
+Subway,NUGGETS,Food
+Taco Bell,ONION RINGS,Food
+Cafe Coffee Day,MILKSHAKE,Food
+Burger Singh,ICED COFFEE,Food
+Burger King,WHOPPER CHS,Food
+McDonalds,WHOPPER,Food
+KFC,SM FRY,Food
+Dominos,LG FRY,Food
+Pizza Hut,SOFT DRINK,Food
+Starbucks,REGULAR COMBO,Food
+Subway,BIG MAC,Food
+Taco Bell,MCCHICKEN,Food
+Cafe Coffee Day,FRENCH FRIES,Food
+Burger Singh,PEPSI,Food
+Burger King,COKE,Food
+McDonalds,ZINGER BURGER,Food
+KFC,HOT WINGS,Food
+Dominos,PIZZA,Food
+Pizza Hut,GARLIC BREAD,Food
+Starbucks,PASTA,Food
+Subway,CAPPUCCINO,Food
+Taco Bell,LATTE,Food
+Cafe Coffee Day,MOCHA,Food
+Burger Singh,CHICKEN SANDWICH,Food
+Burger King,VEG BURGER,Food
+McDonalds,NUGGETS,Food
+KFC,ONION RINGS,Food
+Dominos,MILKSHAKE,Food
+Pizza Hut,ICED COFFEE,Food
+Starbucks,WHOPPER CHS,Food
+Subway,WHOPPER,Food
+Taco Bell,SM FRY,Food
+Cafe Coffee Day,LG FRY,Food
+Burger Singh,SOFT DRINK,Food
+Burger King,REGULAR COMBO,Food
+McDonalds,BIG MAC,Food
+KFC,MCCHICKEN,Food
+Dominos,FRENCH FRIES,Food
+Pizza Hut,PEPSI,Food
+Starbucks,COKE,Food
+Subway,ZINGER BURGER,Food
+Taco Bell,HOT WINGS,Food
+Cafe Coffee Day,PIZZA,Food
+Burger Singh,GARLIC BREAD,Food
+Burger King,PASTA,Food
+McDonalds,CAPPUCCINO,Food
+KFC,LATTE,Food
+Dominos,MOCHA,Food
+Pizza Hut,CHICKEN SANDWICH,Food
+Starbucks,VEG BURGER,Food
+Subway,NUGGETS,Food
+Taco Bell,ONION RINGS,Food
+Cafe Coffee Day,MILKSHAKE,Food
+Burger Singh,ICED COFFEE,Food
+Amazon,LAPTOP,Shopping
+Flipkart,HEADPHONES,Shopping
+Walmart,MOUSE,Shopping
+Target,KEYBOARD,Shopping
+Apple,MONITOR,Shopping
+Best Buy,TOOTHPASTE,Shopping
+Nike,SHAMPOO,Shopping
+Adidas,SOAP,Shopping
+IKEA,BEDSHEET,Shopping
+H&M,TOWEL,Shopping
+Amazon,AIRPODS,Shopping
+Flipkart,IPHONE CASE,Shopping
+Walmart,USB CABLE,Shopping
+Target,RUNNING SHOES,Shopping
+Apple,SPORTS SHOES,Shopping
+Best Buy,STUDY TABLE,Shopping
+Nike,CHAIR,Shopping
+Adidas,T SHIRT,Shopping
+IKEA,JEANS,Shopping
+H&M,JACKET,Shopping
+Amazon,POWER BANK,Shopping
+Flipkart,SMART WATCH,Shopping
+Walmart,BACKPACK,Shopping
+Target,NOTEBOOK,Shopping
+Apple,WATER BOTTLE,Shopping
+Best Buy,LAPTOP,Shopping
+Nike,HEADPHONES,Shopping
+Adidas,MOUSE,Shopping
+IKEA,KEYBOARD,Shopping
+H&M,MONITOR,Shopping
+Amazon,TOOTHPASTE,Shopping
+Flipkart,SHAMPOO,Shopping
+Walmart,SOAP,Shopping
+Target,BEDSHEET,Shopping
+Apple,TOWEL,Shopping
+Best Buy,AIRPODS,Shopping
+Nike,IPHONE CASE,Shopping
+Adidas,USB CABLE,Shopping
+IKEA,RUNNING SHOES,Shopping
+H&M,SPORTS SHOES,Shopping
+Amazon,STUDY TABLE,Shopping
+Flipkart,CHAIR,Shopping
+Walmart,T SHIRT,Shopping
+Target,JEANS,Shopping
+Apple,JACKET,Shopping
+Best Buy,POWER BANK,Shopping
+Nike,SMART WATCH,Shopping
+Adidas,BACKPACK,Shopping
+IKEA,NOTEBOOK,Shopping
+H&M,WATER BOTTLE,Shopping
+Amazon,LAPTOP,Shopping
+Flipkart,HEADPHONES,Shopping
+Walmart,MOUSE,Shopping
+Target,KEYBOARD,Shopping
+Apple,MONITOR,Shopping
+Best Buy,TOOTHPASTE,Shopping
+Nike,SHAMPOO,Shopping
+Adidas,SOAP,Shopping
+IKEA,BEDSHEET,Shopping
+H&M,TOWEL,Shopping
+Amazon,AIRPODS,Shopping
+Flipkart,IPHONE CASE,Shopping
+Walmart,USB CABLE,Shopping
+Target,RUNNING SHOES,Shopping
+Apple,SPORTS SHOES,Shopping
+Best Buy,STUDY TABLE,Shopping
+Nike,CHAIR,Shopping
+Adidas,T SHIRT,Shopping
+IKEA,JEANS,Shopping
+H&M,JACKET,Shopping
+Amazon,POWER BANK,Shopping
+Flipkart,SMART WATCH,Shopping
+Walmart,BACKPACK,Shopping
+Target,NOTEBOOK,Shopping
+Apple,WATER BOTTLE,Shopping
+Best Buy,LAPTOP,Shopping
+Nike,HEADPHONES,Shopping
+Adidas,MOUSE,Shopping
+IKEA,KEYBOARD,Shopping
+H&M,MONITOR,Shopping
+Amazon,TOOTHPASTE,Shopping
+Flipkart,SHAMPOO,Shopping
+Walmart,SOAP,Shopping
+Target,BEDSHEET,Shopping
+Apple,TOWEL,Shopping
+Best Buy,AIRPODS,Shopping
+Nike,IPHONE CASE,Shopping
+Adidas,USB CABLE,Shopping
+IKEA,RUNNING SHOES,Shopping
+H&M,SPORTS SHOES,Shopping
+Amazon,STUDY TABLE,Shopping
+Flipkart,CHAIR,Shopping
+Walmart,T SHIRT,Shopping
+Target,JEANS,Shopping
+Apple,JACKET,Shopping
+Best Buy,POWER BANK,Shopping
+Nike,SMART WATCH,Shopping
+Adidas,BACKPACK,Shopping
+IKEA,NOTEBOOK,Shopping
+H&M,WATER BOTTLE,Shopping
+Uber,CAB RIDE,Transport
+Ola,AIRPORT RIDE,Transport
+Metro,UBERX,Transport
+Railway,UBER GO,Transport
+Air India,CITY RIDE,Transport
+Indigo,AIRPORT TRANSFER,Transport
+City Bus,METRO TICKET,Transport
+Parking,TRAIN PASS,Transport
+Taxi Service,TRAIN TICKET,Transport
+Fuel Station,SLEEPER TICKET,Transport
+Uber,FLIGHT TICKET,Transport
+Ola,BOARDING PASS,Transport
+Metro,BUS TICKET,Transport
+Railway,OLA MINI,Transport
+Air India,OLA PRIME,Transport
+Indigo,PETROL,Transport
+City Bus,DIESEL,Transport
+Parking,PARKING FEE,Transport
+Taxi Service,TAXI RIDE,Transport
+Fuel Station,CAB BOOKING,Transport
+Uber,AUTO RIDE,Transport
+Ola,METRO CARD,Transport
+Metro,BUS PASS,Transport
+Railway,FUEL REFILL,Transport
+Air India,TOLL PAYMENT,Transport
+Indigo,CAB RIDE,Transport
+City Bus,AIRPORT RIDE,Transport
+Parking,UBERX,Transport
+Taxi Service,UBER GO,Transport
+Fuel Station,CITY RIDE,Transport
+Uber,AIRPORT TRANSFER,Transport
+Ola,METRO TICKET,Transport
+Metro,TRAIN PASS,Transport
+Railway,TRAIN TICKET,Transport
+Air India,SLEEPER TICKET,Transport
+Indigo,FLIGHT TICKET,Transport
+City Bus,BOARDING PASS,Transport
+Parking,BUS TICKET,Transport
+Taxi Service,OLA MINI,Transport
+Fuel Station,OLA PRIME,Transport
+Uber,PETROL,Transport
+Ola,DIESEL,Transport
+Metro,PARKING FEE,Transport
+Railway,TAXI RIDE,Transport
+Air India,CAB BOOKING,Transport
+Indigo,AUTO RIDE,Transport
+City Bus,METRO CARD,Transport
+Parking,BUS PASS,Transport
+Taxi Service,FUEL REFILL,Transport
+Fuel Station,TOLL PAYMENT,Transport
+Uber,CAB RIDE,Transport
+Ola,AIRPORT RIDE,Transport
+Metro,UBERX,Transport
+Railway,UBER GO,Transport
+Air India,CITY RIDE,Transport
+Indigo,AIRPORT TRANSFER,Transport
+City Bus,METRO TICKET,Transport
+Parking,TRAIN PASS,Transport
+Taxi Service,TRAIN TICKET,Transport
+Fuel Station,SLEEPER TICKET,Transport
+Uber,FLIGHT TICKET,Transport
+Ola,BOARDING PASS,Transport
+Metro,BUS TICKET,Transport
+Railway,OLA MINI,Transport
+Air India,OLA PRIME,Transport
+Indigo,PETROL,Transport
+City Bus,DIESEL,Transport
+Parking,PARKING FEE,Transport
+Taxi Service,TAXI RIDE,Transport
+Fuel Station,CAB BOOKING,Transport
+Uber,AUTO RIDE,Transport
+Ola,METRO CARD,Transport
+Metro,BUS PASS,Transport
+Railway,FUEL REFILL,Transport
+Air India,TOLL PAYMENT,Transport
+Indigo,CAB RIDE,Transport
+City Bus,AIRPORT RIDE,Transport
+Parking,UBERX,Transport
+Taxi Service,UBER GO,Transport
+Fuel Station,CITY RIDE,Transport
+Uber,AIRPORT TRANSFER,Transport
+Ola,METRO TICKET,Transport
+Metro,TRAIN PASS,Transport
+Railway,TRAIN TICKET,Transport
+Air India,SLEEPER TICKET,Transport
+Indigo,FLIGHT TICKET,Transport
+City Bus,BOARDING PASS,Transport
+Parking,BUS TICKET,Transport
+Taxi Service,OLA MINI,Transport
+Fuel Station,OLA PRIME,Transport
+Uber,PETROL,Transport
+Ola,DIESEL,Transport
+Metro,PARKING FEE,Transport
+Railway,TAXI RIDE,Transport
+Air India,CAB BOOKING,Transport
+Indigo,AUTO RIDE,Transport
+City Bus,METRO CARD,Transport
+Parking,BUS PASS,Transport
+Taxi Service,FUEL REFILL,Transport
+Fuel Station,TOLL PAYMENT,Transport

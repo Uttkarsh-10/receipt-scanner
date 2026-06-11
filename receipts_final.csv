@@ -1,0 +1,1101 @@
+merchant,item,category
+Dominos,Pizza,Food
+Dominos,Burger,Food
+Dominos,Fries,Food
+Dominos,Coffee,Food
+Dominos,Garlic Bread,Food
+Dominos,Pasta,Food
+Dominos,Wrap,Food
+Dominos,Sandwich,Food
+McDonalds,Pizza,Food
+McDonalds,Burger,Food
+McDonalds,Fries,Food
+McDonalds,Coffee,Food
+McDonalds,Garlic Bread,Food
+McDonalds,Pasta,Food
+McDonalds,Wrap,Food
+McDonalds,Sandwich,Food
+KFC,Pizza,Food
+KFC,Burger,Food
+KFC,Fries,Food
+KFC,Coffee,Food
+KFC,Garlic Bread,Food
+KFC,Pasta,Food
+KFC,Wrap,Food
+KFC,Sandwich,Food
+Burger King,Pizza,Food
+Burger King,Burger,Food
+Burger King,Fries,Food
+Burger King,Coffee,Food
+Burger King,Garlic Bread,Food
+Burger King,Pasta,Food
+Burger King,Wrap,Food
+Burger King,Sandwich,Food
+Pizza Hut,Pizza,Food
+Pizza Hut,Burger,Food
+Pizza Hut,Fries,Food
+Pizza Hut,Coffee,Food
+Pizza Hut,Garlic Bread,Food
+Pizza Hut,Pasta,Food
+Pizza Hut,Wrap,Food
+Pizza Hut,Sandwich,Food
+Starbucks,Pizza,Food
+Starbucks,Burger,Food
+Starbucks,Fries,Food
+Starbucks,Coffee,Food
+Starbucks,Garlic Bread,Food
+Starbucks,Pasta,Food
+Starbucks,Wrap,Food
+Starbucks,Sandwich,Food
+Subway,Pizza,Food
+Subway,Burger,Food
+Subway,Fries,Food
+Subway,Coffee,Food
+Subway,Garlic Bread,Food
+Subway,Pasta,Food
+Subway,Wrap,Food
+Subway,Sandwich,Food
+Taco Bell,Pizza,Food
+Taco Bell,Burger,Food
+Taco Bell,Fries,Food
+Taco Bell,Coffee,Food
+Taco Bell,Garlic Bread,Food
+Taco Bell,Pasta,Food
+Taco Bell,Wrap,Food
+Taco Bell,Sandwich,Food
+Haldirams,Pizza,Food
+Haldirams,Burger,Food
+Haldirams,Fries,Food
+Haldirams,Coffee,Food
+Haldirams,Garlic Bread,Food
+Haldirams,Pasta,Food
+Haldirams,Wrap,Food
+Haldirams,Sandwich,Food
+Bikanervala,Pizza,Food
+Bikanervala,Burger,Food
+Bikanervala,Fries,Food
+Bikanervala,Coffee,Food
+Bikanervala,Garlic Bread,Food
+Bikanervala,Pasta,Food
+Bikanervala,Wrap,Food
+Bikanervala,Sandwich,Food
+Uber,Cab Ride,Transport
+Uber,Bike Ride,Transport
+Uber,Auto Ride,Transport
+Uber,Airport Ride,Transport
+Uber,Metro Ticket,Transport
+Uber,Train Ticket,Transport
+Uber,Bus Ticket,Transport
+Uber,Monthly Pass,Transport
+Ola,Cab Ride,Transport
+Ola,Bike Ride,Transport
+Ola,Auto Ride,Transport
+Ola,Airport Ride,Transport
+Ola,Metro Ticket,Transport
+Ola,Train Ticket,Transport
+Ola,Bus Ticket,Transport
+Ola,Monthly Pass,Transport
+Rapido,Cab Ride,Transport
+Rapido,Bike Ride,Transport
+Rapido,Auto Ride,Transport
+Rapido,Airport Ride,Transport
+Rapido,Metro Ticket,Transport
+Rapido,Train Ticket,Transport
+Rapido,Bus Ticket,Transport
+Rapido,Monthly Pass,Transport
+Metro,Cab Ride,Transport
+Metro,Bike Ride,Transport
+Metro,Auto Ride,Transport
+Metro,Airport Ride,Transport
+Metro,Metro Ticket,Transport
+Metro,Train Ticket,Transport
+Metro,Bus Ticket,Transport
+Metro,Monthly Pass,Transport
+Indian Railways,Cab Ride,Transport
+Indian Railways,Bike Ride,Transport
+Indian Railways,Auto Ride,Transport
+Indian Railways,Airport Ride,Transport
+Indian Railways,Metro Ticket,Transport
+Indian Railways,Train Ticket,Transport
+Indian Railways,Bus Ticket,Transport
+Indian Railways,Monthly Pass,Transport
+RedBus,Cab Ride,Transport
+RedBus,Bike Ride,Transport
+RedBus,Auto Ride,Transport
+RedBus,Airport Ride,Transport
+RedBus,Metro Ticket,Transport
+RedBus,Train Ticket,Transport
+RedBus,Bus Ticket,Transport
+RedBus,Monthly Pass,Transport
+BluSmart,Cab Ride,Transport
+BluSmart,Bike Ride,Transport
+BluSmart,Auto Ride,Transport
+BluSmart,Airport Ride,Transport
+BluSmart,Metro Ticket,Transport
+BluSmart,Train Ticket,Transport
+BluSmart,Bus Ticket,Transport
+BluSmart,Monthly Pass,Transport
+Yulu,Cab Ride,Transport
+Yulu,Bike Ride,Transport
+Yulu,Auto Ride,Transport
+Yulu,Airport Ride,Transport
+Yulu,Metro Ticket,Transport
+Yulu,Train Ticket,Transport
+Yulu,Bus Ticket,Transport
+Yulu,Monthly Pass,Transport
+Namma Yatri,Cab Ride,Transport
+Namma Yatri,Bike Ride,Transport
+Namma Yatri,Auto Ride,Transport
+Namma Yatri,Airport Ride,Transport
+Namma Yatri,Metro Ticket,Transport
+Namma Yatri,Train Ticket,Transport
+Namma Yatri,Bus Ticket,Transport
+Namma Yatri,Monthly Pass,Transport
+QuickRide,Cab Ride,Transport
+QuickRide,Bike Ride,Transport
+QuickRide,Auto Ride,Transport
+QuickRide,Airport Ride,Transport
+QuickRide,Metro Ticket,Transport
+QuickRide,Train Ticket,Transport
+QuickRide,Bus Ticket,Transport
+QuickRide,Monthly Pass,Transport
+Amazon,Laptop,Shopping
+Amazon,Mobile,Shopping
+Amazon,Headphones,Shopping
+Amazon,Keyboard,Shopping
+Amazon,Mouse,Shopping
+Amazon,Monitor,Shopping
+Amazon,Tshirt,Shopping
+Amazon,Shoes,Shopping
+Flipkart,Laptop,Shopping
+Flipkart,Mobile,Shopping
+Flipkart,Headphones,Shopping
+Flipkart,Keyboard,Shopping
+Flipkart,Mouse,Shopping
+Flipkart,Monitor,Shopping
+Flipkart,Tshirt,Shopping
+Flipkart,Shoes,Shopping
+Myntra,Laptop,Shopping
+Myntra,Mobile,Shopping
+Myntra,Headphones,Shopping
+Myntra,Keyboard,Shopping
+Myntra,Mouse,Shopping
+Myntra,Monitor,Shopping
+Myntra,Tshirt,Shopping
+Myntra,Shoes,Shopping
+Ajio,Laptop,Shopping
+Ajio,Mobile,Shopping
+Ajio,Headphones,Shopping
+Ajio,Keyboard,Shopping
+Ajio,Mouse,Shopping
+Ajio,Monitor,Shopping
+Ajio,Tshirt,Shopping
+Ajio,Shoes,Shopping
+Croma,Laptop,Shopping
+Croma,Mobile,Shopping
+Croma,Headphones,Shopping
+Croma,Keyboard,Shopping
+Croma,Mouse,Shopping
+Croma,Monitor,Shopping
+Croma,Tshirt,Shopping
+Croma,Shoes,Shopping
+Reliance Digital,Laptop,Shopping
+Reliance Digital,Mobile,Shopping
+Reliance Digital,Headphones,Shopping
+Reliance Digital,Keyboard,Shopping
+Reliance Digital,Mouse,Shopping
+Reliance Digital,Monitor,Shopping
+Reliance Digital,Tshirt,Shopping
+Reliance Digital,Shoes,Shopping
+Vijay Sales,Laptop,Shopping
+Vijay Sales,Mobile,Shopping
+Vijay Sales,Headphones,Shopping
+Vijay Sales,Keyboard,Shopping
+Vijay Sales,Mouse,Shopping
+Vijay Sales,Monitor,Shopping
+Vijay Sales,Tshirt,Shopping
+Vijay Sales,Shoes,Shopping
+Meesho,Laptop,Shopping
+Meesho,Mobile,Shopping
+Meesho,Headphones,Shopping
+Meesho,Keyboard,Shopping
+Meesho,Mouse,Shopping
+Meesho,Monitor,Shopping
+Meesho,Tshirt,Shopping
+Meesho,Shoes,Shopping
+Snapdeal,Laptop,Shopping
+Snapdeal,Mobile,Shopping
+Snapdeal,Headphones,Shopping
+Snapdeal,Keyboard,Shopping
+Snapdeal,Mouse,Shopping
+Snapdeal,Monitor,Shopping
+Snapdeal,Tshirt,Shopping
+Snapdeal,Shoes,Shopping
+Tata Cliq,Laptop,Shopping
+Tata Cliq,Mobile,Shopping
+Tata Cliq,Headphones,Shopping
+Tata Cliq,Keyboard,Shopping
+Tata Cliq,Mouse,Shopping
+Tata Cliq,Monitor,Shopping
+Tata Cliq,Tshirt,Shopping
+Tata Cliq,Shoes,Shopping
+BigBasket,Milk,Groceries
+BigBasket,Bread,Groceries
+BigBasket,Eggs,Groceries
+BigBasket,Rice,Groceries
+BigBasket,Sugar,Groceries
+BigBasket,Vegetables,Groceries
+BigBasket,Fruits,Groceries
+BigBasket,Butter,Groceries
+Blinkit,Milk,Groceries
+Blinkit,Bread,Groceries
+Blinkit,Eggs,Groceries
+Blinkit,Rice,Groceries
+Blinkit,Sugar,Groceries
+Blinkit,Vegetables,Groceries
+Blinkit,Fruits,Groceries
+Blinkit,Butter,Groceries
+Zepto,Milk,Groceries
+Zepto,Bread,Groceries
+Zepto,Eggs,Groceries
+Zepto,Rice,Groceries
+Zepto,Sugar,Groceries
+Zepto,Vegetables,Groceries
+Zepto,Fruits,Groceries
+Zepto,Butter,Groceries
+DMart,Milk,Groceries
+DMart,Bread,Groceries
+DMart,Eggs,Groceries
+DMart,Rice,Groceries
+DMart,Sugar,Groceries
+DMart,Vegetables,Groceries
+DMart,Fruits,Groceries
+DMart,Butter,Groceries
+Reliance Fresh,Milk,Groceries
+Reliance Fresh,Bread,Groceries
+Reliance Fresh,Eggs,Groceries
+Reliance Fresh,Rice,Groceries
+Reliance Fresh,Sugar,Groceries
+Reliance Fresh,Vegetables,Groceries
+Reliance Fresh,Fruits,Groceries
+Reliance Fresh,Butter,Groceries
+More,Milk,Groceries
+More,Bread,Groceries
+More,Eggs,Groceries
+More,Rice,Groceries
+More,Sugar,Groceries
+More,Vegetables,Groceries
+More,Fruits,Groceries
+More,Butter,Groceries
+Spencers,Milk,Groceries
+Spencers,Bread,Groceries
+Spencers,Eggs,Groceries
+Spencers,Rice,Groceries
+Spencers,Sugar,Groceries
+Spencers,Vegetables,Groceries
+Spencers,Fruits,Groceries
+Spencers,Butter,Groceries
+Nature Basket,Milk,Groceries
+Nature Basket,Bread,Groceries
+Nature Basket,Eggs,Groceries
+Nature Basket,Rice,Groceries
+Nature Basket,Sugar,Groceries
+Nature Basket,Vegetables,Groceries
+Nature Basket,Fruits,Groceries
+Nature Basket,Butter,Groceries
+EasyDay,Milk,Groceries
+EasyDay,Bread,Groceries
+EasyDay,Eggs,Groceries
+EasyDay,Rice,Groceries
+EasyDay,Sugar,Groceries
+EasyDay,Vegetables,Groceries
+EasyDay,Fruits,Groceries
+EasyDay,Butter,Groceries
+Star Bazaar,Milk,Groceries
+Star Bazaar,Bread,Groceries
+Star Bazaar,Eggs,Groceries
+Star Bazaar,Rice,Groceries
+Star Bazaar,Sugar,Groceries
+Star Bazaar,Vegetables,Groceries
+Star Bazaar,Fruits,Groceries
+Star Bazaar,Butter,Groceries
+Apollo Pharmacy,Paracetamol,Healthcare
+Apollo Pharmacy,Vitamin C,Healthcare
+Apollo Pharmacy,Protein Powder,Healthcare
+Apollo Pharmacy,Cough Syrup,Healthcare
+Apollo Pharmacy,Bandage,Healthcare
+Apollo Pharmacy,Pain Relief Spray,Healthcare
+Apollo Pharmacy,Multivitamin,Healthcare
+Apollo Pharmacy,Thermometer,Healthcare
+MedPlus,Paracetamol,Healthcare
+MedPlus,Vitamin C,Healthcare
+MedPlus,Protein Powder,Healthcare
+MedPlus,Cough Syrup,Healthcare
+MedPlus,Bandage,Healthcare
+MedPlus,Pain Relief Spray,Healthcare
+MedPlus,Multivitamin,Healthcare
+MedPlus,Thermometer,Healthcare
+NetMeds,Paracetamol,Healthcare
+NetMeds,Vitamin C,Healthcare
+NetMeds,Protein Powder,Healthcare
+NetMeds,Cough Syrup,Healthcare
+NetMeds,Bandage,Healthcare
+NetMeds,Pain Relief Spray,Healthcare
+NetMeds,Multivitamin,Healthcare
+NetMeds,Thermometer,Healthcare
+1mg,Paracetamol,Healthcare
+1mg,Vitamin C,Healthcare
+1mg,Protein Powder,Healthcare
+1mg,Cough Syrup,Healthcare
+1mg,Bandage,Healthcare
+1mg,Pain Relief Spray,Healthcare
+1mg,Multivitamin,Healthcare
+1mg,Thermometer,Healthcare
+Wellness Forever,Paracetamol,Healthcare
+Wellness Forever,Vitamin C,Healthcare
+Wellness Forever,Protein Powder,Healthcare
+Wellness Forever,Cough Syrup,Healthcare
+Wellness Forever,Bandage,Healthcare
+Wellness Forever,Pain Relief Spray,Healthcare
+Wellness Forever,Multivitamin,Healthcare
+Wellness Forever,Thermometer,Healthcare
+Care Pharmacy,Paracetamol,Healthcare
+Care Pharmacy,Vitamin C,Healthcare
+Care Pharmacy,Protein Powder,Healthcare
+Care Pharmacy,Cough Syrup,Healthcare
+Care Pharmacy,Bandage,Healthcare
+Care Pharmacy,Pain Relief Spray,Healthcare
+Care Pharmacy,Multivitamin,Healthcare
+Care Pharmacy,Thermometer,Healthcare
+Guardian,Paracetamol,Healthcare
+Guardian,Vitamin C,Healthcare
+Guardian,Protein Powder,Healthcare
+Guardian,Cough Syrup,Healthcare
+Guardian,Bandage,Healthcare
+Guardian,Pain Relief Spray,Healthcare
+Guardian,Multivitamin,Healthcare
+Guardian,Thermometer,Healthcare
+Pharmeasy,Paracetamol,Healthcare
+Pharmeasy,Vitamin C,Healthcare
+Pharmeasy,Protein Powder,Healthcare
+Pharmeasy,Cough Syrup,Healthcare
+Pharmeasy,Bandage,Healthcare
+Pharmeasy,Pain Relief Spray,Healthcare
+Pharmeasy,Multivitamin,Healthcare
+Pharmeasy,Thermometer,Healthcare
+MediBuddy,Paracetamol,Healthcare
+MediBuddy,Vitamin C,Healthcare
+MediBuddy,Protein Powder,Healthcare
+MediBuddy,Cough Syrup,Healthcare
+MediBuddy,Bandage,Healthcare
+MediBuddy,Pain Relief Spray,Healthcare
+MediBuddy,Multivitamin,Healthcare
+MediBuddy,Thermometer,Healthcare
+HealthKart,Paracetamol,Healthcare
+HealthKart,Vitamin C,Healthcare
+HealthKart,Protein Powder,Healthcare
+HealthKart,Cough Syrup,Healthcare
+HealthKart,Bandage,Healthcare
+HealthKart,Pain Relief Spray,Healthcare
+HealthKart,Multivitamin,Healthcare
+HealthKart,Thermometer,Healthcare
+PVR,Movie Ticket,Entertainment
+PVR,Subscription,Entertainment
+PVR,Premium Plan,Entertainment
+PVR,Annual Plan,Entertainment
+PVR,Event Ticket,Entertainment
+PVR,Music Pass,Entertainment
+PVR,OTT Pass,Entertainment
+PVR,Show Ticket,Entertainment
+INOX,Movie Ticket,Entertainment
+INOX,Subscription,Entertainment
+INOX,Premium Plan,Entertainment
+INOX,Annual Plan,Entertainment
+INOX,Event Ticket,Entertainment
+INOX,Music Pass,Entertainment
+INOX,OTT Pass,Entertainment
+INOX,Show Ticket,Entertainment
+Spotify,Movie Ticket,Entertainment
+Spotify,Subscription,Entertainment
+Spotify,Premium Plan,Entertainment
+Spotify,Annual Plan,Entertainment
+Spotify,Event Ticket,Entertainment
+Spotify,Music Pass,Entertainment
+Spotify,OTT Pass,Entertainment
+Spotify,Show Ticket,Entertainment
+Netflix,Movie Ticket,Entertainment
+Netflix,Subscription,Entertainment
+Netflix,Premium Plan,Entertainment
+Netflix,Annual Plan,Entertainment
+Netflix,Event Ticket,Entertainment
+Netflix,Music Pass,Entertainment
+Netflix,OTT Pass,Entertainment
+Netflix,Show Ticket,Entertainment
+Amazon Prime,Movie Ticket,Entertainment
+Amazon Prime,Subscription,Entertainment
+Amazon Prime,Premium Plan,Entertainment
+Amazon Prime,Annual Plan,Entertainment
+Amazon Prime,Event Ticket,Entertainment
+Amazon Prime,Music Pass,Entertainment
+Amazon Prime,OTT Pass,Entertainment
+Amazon Prime,Show Ticket,Entertainment
+Disney Hotstar,Movie Ticket,Entertainment
+Disney Hotstar,Subscription,Entertainment
+Disney Hotstar,Premium Plan,Entertainment
+Disney Hotstar,Annual Plan,Entertainment
+Disney Hotstar,Event Ticket,Entertainment
+Disney Hotstar,Music Pass,Entertainment
+Disney Hotstar,OTT Pass,Entertainment
+Disney Hotstar,Show Ticket,Entertainment
+Sony LIV,Movie Ticket,Entertainment
+Sony LIV,Subscription,Entertainment
+Sony LIV,Premium Plan,Entertainment
+Sony LIV,Annual Plan,Entertainment
+Sony LIV,Event Ticket,Entertainment
+Sony LIV,Music Pass,Entertainment
+Sony LIV,OTT Pass,Entertainment
+Sony LIV,Show Ticket,Entertainment
+Zee5,Movie Ticket,Entertainment
+Zee5,Subscription,Entertainment
+Zee5,Premium Plan,Entertainment
+Zee5,Annual Plan,Entertainment
+Zee5,Event Ticket,Entertainment
+Zee5,Music Pass,Entertainment
+Zee5,OTT Pass,Entertainment
+Zee5,Show Ticket,Entertainment
+BookMyShow,Movie Ticket,Entertainment
+BookMyShow,Subscription,Entertainment
+BookMyShow,Premium Plan,Entertainment
+BookMyShow,Annual Plan,Entertainment
+BookMyShow,Event Ticket,Entertainment
+BookMyShow,Music Pass,Entertainment
+BookMyShow,OTT Pass,Entertainment
+BookMyShow,Show Ticket,Entertainment
+JioCinema,Movie Ticket,Entertainment
+JioCinema,Subscription,Entertainment
+JioCinema,Premium Plan,Entertainment
+JioCinema,Annual Plan,Entertainment
+JioCinema,Event Ticket,Entertainment
+JioCinema,Music Pass,Entertainment
+JioCinema,OTT Pass,Entertainment
+JioCinema,Show Ticket,Entertainment
+Coursera,Python Course,Education
+Coursera,ML Course,Education
+Coursera,React Course,Education
+Coursera,Java Course,Education
+Coursera,DSA Course,Education
+Coursera,Cloud Course,Education
+Coursera,AI Course,Education
+Coursera,SQL Course,Education
+Udemy,Python Course,Education
+Udemy,ML Course,Education
+Udemy,React Course,Education
+Udemy,Java Course,Education
+Udemy,DSA Course,Education
+Udemy,Cloud Course,Education
+Udemy,AI Course,Education
+Udemy,SQL Course,Education
+edX,Python Course,Education
+edX,ML Course,Education
+edX,React Course,Education
+edX,Java Course,Education
+edX,DSA Course,Education
+edX,Cloud Course,Education
+edX,AI Course,Education
+edX,SQL Course,Education
+Scaler,Python Course,Education
+Scaler,ML Course,Education
+Scaler,React Course,Education
+Scaler,Java Course,Education
+Scaler,DSA Course,Education
+Scaler,Cloud Course,Education
+Scaler,AI Course,Education
+Scaler,SQL Course,Education
+GeeksforGeeks,Python Course,Education
+GeeksforGeeks,ML Course,Education
+GeeksforGeeks,React Course,Education
+GeeksforGeeks,Java Course,Education
+GeeksforGeeks,DSA Course,Education
+GeeksforGeeks,Cloud Course,Education
+GeeksforGeeks,AI Course,Education
+GeeksforGeeks,SQL Course,Education
+Unacademy,Python Course,Education
+Unacademy,ML Course,Education
+Unacademy,React Course,Education
+Unacademy,Java Course,Education
+Unacademy,DSA Course,Education
+Unacademy,Cloud Course,Education
+Unacademy,AI Course,Education
+Unacademy,SQL Course,Education
+Byjus,Python Course,Education
+Byjus,ML Course,Education
+Byjus,React Course,Education
+Byjus,Java Course,Education
+Byjus,DSA Course,Education
+Byjus,Cloud Course,Education
+Byjus,AI Course,Education
+Byjus,SQL Course,Education
+Simplilearn,Python Course,Education
+Simplilearn,ML Course,Education
+Simplilearn,React Course,Education
+Simplilearn,Java Course,Education
+Simplilearn,DSA Course,Education
+Simplilearn,Cloud Course,Education
+Simplilearn,AI Course,Education
+Simplilearn,SQL Course,Education
+Great Learning,Python Course,Education
+Great Learning,ML Course,Education
+Great Learning,React Course,Education
+Great Learning,Java Course,Education
+Great Learning,DSA Course,Education
+Great Learning,Cloud Course,Education
+Great Learning,AI Course,Education
+Great Learning,SQL Course,Education
+NPTEL,Python Course,Education
+NPTEL,ML Course,Education
+NPTEL,React Course,Education
+NPTEL,Java Course,Education
+NPTEL,DSA Course,Education
+NPTEL,Cloud Course,Education
+NPTEL,AI Course,Education
+NPTEL,SQL Course,Education
+MakeMyTrip,Flight Ticket,Travel
+MakeMyTrip,Hotel Booking,Travel
+MakeMyTrip,Train Booking,Travel
+MakeMyTrip,Bus Booking,Travel
+MakeMyTrip,Holiday Package,Travel
+MakeMyTrip,Visa Service,Travel
+MakeMyTrip,Cab Booking,Travel
+MakeMyTrip,Resort Booking,Travel
+Goibibo,Flight Ticket,Travel
+Goibibo,Hotel Booking,Travel
+Goibibo,Train Booking,Travel
+Goibibo,Bus Booking,Travel
+Goibibo,Holiday Package,Travel
+Goibibo,Visa Service,Travel
+Goibibo,Cab Booking,Travel
+Goibibo,Resort Booking,Travel
+Yatra,Flight Ticket,Travel
+Yatra,Hotel Booking,Travel
+Yatra,Train Booking,Travel
+Yatra,Bus Booking,Travel
+Yatra,Holiday Package,Travel
+Yatra,Visa Service,Travel
+Yatra,Cab Booking,Travel
+Yatra,Resort Booking,Travel
+Ixigo,Flight Ticket,Travel
+Ixigo,Hotel Booking,Travel
+Ixigo,Train Booking,Travel
+Ixigo,Bus Booking,Travel
+Ixigo,Holiday Package,Travel
+Ixigo,Visa Service,Travel
+Ixigo,Cab Booking,Travel
+Ixigo,Resort Booking,Travel
+Air India,Flight Ticket,Travel
+Air India,Hotel Booking,Travel
+Air India,Train Booking,Travel
+Air India,Bus Booking,Travel
+Air India,Holiday Package,Travel
+Air India,Visa Service,Travel
+Air India,Cab Booking,Travel
+Air India,Resort Booking,Travel
+IndiGo,Flight Ticket,Travel
+IndiGo,Hotel Booking,Travel
+IndiGo,Train Booking,Travel
+IndiGo,Bus Booking,Travel
+IndiGo,Holiday Package,Travel
+IndiGo,Visa Service,Travel
+IndiGo,Cab Booking,Travel
+IndiGo,Resort Booking,Travel
+SpiceJet,Flight Ticket,Travel
+SpiceJet,Hotel Booking,Travel
+SpiceJet,Train Booking,Travel
+SpiceJet,Bus Booking,Travel
+SpiceJet,Holiday Package,Travel
+SpiceJet,Visa Service,Travel
+SpiceJet,Cab Booking,Travel
+SpiceJet,Resort Booking,Travel
+Cleartrip,Flight Ticket,Travel
+Cleartrip,Hotel Booking,Travel
+Cleartrip,Train Booking,Travel
+Cleartrip,Bus Booking,Travel
+Cleartrip,Holiday Package,Travel
+Cleartrip,Visa Service,Travel
+Cleartrip,Cab Booking,Travel
+Cleartrip,Resort Booking,Travel
+EaseMyTrip,Flight Ticket,Travel
+EaseMyTrip,Hotel Booking,Travel
+EaseMyTrip,Train Booking,Travel
+EaseMyTrip,Bus Booking,Travel
+EaseMyTrip,Holiday Package,Travel
+EaseMyTrip,Visa Service,Travel
+EaseMyTrip,Cab Booking,Travel
+EaseMyTrip,Resort Booking,Travel
+IRCTC,Flight Ticket,Travel
+IRCTC,Hotel Booking,Travel
+IRCTC,Train Booking,Travel
+IRCTC,Bus Booking,Travel
+IRCTC,Holiday Package,Travel
+IRCTC,Visa Service,Travel
+IRCTC,Cab Booking,Travel
+IRCTC,Resort Booking,Travel
+Airtel,Electricity Bill,Utilities
+Airtel,Water Bill,Utilities
+Airtel,Broadband Bill,Utilities
+Airtel,Mobile Recharge,Utilities
+Airtel,Gas Bill,Utilities
+Airtel,DTH Recharge,Utilities
+Airtel,Fiber Bill,Utilities
+Airtel,Landline Bill,Utilities
+Jio,Electricity Bill,Utilities
+Jio,Water Bill,Utilities
+Jio,Broadband Bill,Utilities
+Jio,Mobile Recharge,Utilities
+Jio,Gas Bill,Utilities
+Jio,DTH Recharge,Utilities
+Jio,Fiber Bill,Utilities
+Jio,Landline Bill,Utilities
+Vodafone,Electricity Bill,Utilities
+Vodafone,Water Bill,Utilities
+Vodafone,Broadband Bill,Utilities
+Vodafone,Mobile Recharge,Utilities
+Vodafone,Gas Bill,Utilities
+Vodafone,DTH Recharge,Utilities
+Vodafone,Fiber Bill,Utilities
+Vodafone,Landline Bill,Utilities
+BSES,Electricity Bill,Utilities
+BSES,Water Bill,Utilities
+BSES,Broadband Bill,Utilities
+BSES,Mobile Recharge,Utilities
+BSES,Gas Bill,Utilities
+BSES,DTH Recharge,Utilities
+BSES,Fiber Bill,Utilities
+BSES,Landline Bill,Utilities
+Adani Electricity,Electricity Bill,Utilities
+Adani Electricity,Water Bill,Utilities
+Adani Electricity,Broadband Bill,Utilities
+Adani Electricity,Mobile Recharge,Utilities
+Adani Electricity,Gas Bill,Utilities
+Adani Electricity,DTH Recharge,Utilities
+Adani Electricity,Fiber Bill,Utilities
+Adani Electricity,Landline Bill,Utilities
+Tata Power,Electricity Bill,Utilities
+Tata Power,Water Bill,Utilities
+Tata Power,Broadband Bill,Utilities
+Tata Power,Mobile Recharge,Utilities
+Tata Power,Gas Bill,Utilities
+Tata Power,DTH Recharge,Utilities
+Tata Power,Fiber Bill,Utilities
+Tata Power,Landline Bill,Utilities
+ACT Fibernet,Electricity Bill,Utilities
+ACT Fibernet,Water Bill,Utilities
+ACT Fibernet,Broadband Bill,Utilities
+ACT Fibernet,Mobile Recharge,Utilities
+ACT Fibernet,Gas Bill,Utilities
+ACT Fibernet,DTH Recharge,Utilities
+ACT Fibernet,Fiber Bill,Utilities
+ACT Fibernet,Landline Bill,Utilities
+Hathway,Electricity Bill,Utilities
+Hathway,Water Bill,Utilities
+Hathway,Broadband Bill,Utilities
+Hathway,Mobile Recharge,Utilities
+Hathway,Gas Bill,Utilities
+Hathway,DTH Recharge,Utilities
+Hathway,Fiber Bill,Utilities
+Hathway,Landline Bill,Utilities
+BSNL,Electricity Bill,Utilities
+BSNL,Water Bill,Utilities
+BSNL,Broadband Bill,Utilities
+BSNL,Mobile Recharge,Utilities
+BSNL,Gas Bill,Utilities
+BSNL,DTH Recharge,Utilities
+BSNL,Fiber Bill,Utilities
+BSNL,Landline Bill,Utilities
+Airtel Xstream,Electricity Bill,Utilities
+Airtel Xstream,Water Bill,Utilities
+Airtel Xstream,Broadband Bill,Utilities
+Airtel Xstream,Mobile Recharge,Utilities
+Airtel Xstream,Gas Bill,Utilities
+Airtel Xstream,DTH Recharge,Utilities
+Airtel Xstream,Fiber Bill,Utilities
+Airtel Xstream,Landline Bill,Utilities
+Local Store,Misc Purchase,Other
+Local Store,Gift Item,Other
+Local Store,Notebook,Other
+Local Store,Pet Food,Other
+Local Store,Repair Service,Other
+Local Store,Toy,Other
+Local Store,Tool Kit,Other
+Local Store,Sports Item,Other
+Stationery Shop,Misc Purchase,Other
+Stationery Shop,Gift Item,Other
+Stationery Shop,Notebook,Other
+Stationery Shop,Pet Food,Other
+Stationery Shop,Repair Service,Other
+Stationery Shop,Toy,Other
+Stationery Shop,Tool Kit,Other
+Stationery Shop,Sports Item,Other
+Gift Store,Misc Purchase,Other
+Gift Store,Gift Item,Other
+Gift Store,Notebook,Other
+Gift Store,Pet Food,Other
+Gift Store,Repair Service,Other
+Gift Store,Toy,Other
+Gift Store,Tool Kit,Other
+Gift Store,Sports Item,Other
+Pet Shop,Misc Purchase,Other
+Pet Shop,Gift Item,Other
+Pet Shop,Notebook,Other
+Pet Shop,Pet Food,Other
+Pet Shop,Repair Service,Other
+Pet Shop,Toy,Other
+Pet Shop,Tool Kit,Other
+Pet Shop,Sports Item,Other
+Repair Shop,Misc Purchase,Other
+Repair Shop,Gift Item,Other
+Repair Shop,Notebook,Other
+Repair Shop,Pet Food,Other
+Repair Shop,Repair Service,Other
+Repair Shop,Toy,Other
+Repair Shop,Tool Kit,Other
+Repair Shop,Sports Item,Other
+Toy Store,Misc Purchase,Other
+Toy Store,Gift Item,Other
+Toy Store,Notebook,Other
+Toy Store,Pet Food,Other
+Toy Store,Repair Service,Other
+Toy Store,Toy,Other
+Toy Store,Tool Kit,Other
+Toy Store,Sports Item,Other
+Hardware Store,Misc Purchase,Other
+Hardware Store,Gift Item,Other
+Hardware Store,Notebook,Other
+Hardware Store,Pet Food,Other
+Hardware Store,Repair Service,Other
+Hardware Store,Toy,Other
+Hardware Store,Tool Kit,Other
+Hardware Store,Sports Item,Other
+Book Store,Misc Purchase,Other
+Book Store,Gift Item,Other
+Book Store,Notebook,Other
+Book Store,Pet Food,Other
+Book Store,Repair Service,Other
+Book Store,Toy,Other
+Book Store,Tool Kit,Other
+Book Store,Sports Item,Other
+Flower Shop,Misc Purchase,Other
+Flower Shop,Gift Item,Other
+Flower Shop,Notebook,Other
+Flower Shop,Pet Food,Other
+Flower Shop,Repair Service,Other
+Flower Shop,Toy,Other
+Flower Shop,Tool Kit,Other
+Flower Shop,Sports Item,Other
+Sports Store,Misc Purchase,Other
+Sports Store,Gift Item,Other
+Sports Store,Notebook,Other
+Sports Store,Pet Food,Other
+Sports Store,Repair Service,Other
+Sports Store,Toy,Other
+Sports Store,Tool Kit,Other
+Sports Store,Sports Item,Other
+Burger King,WHOPPER CHS,Food
+McDonalds,WHOPPER,Food
+KFC,SM FRY,Food
+Dominos,LG FRY,Food
+Pizza Hut,SOFT DRINK,Food
+Starbucks,REGULAR COMBO,Food
+Subway,BIG MAC,Food
+Taco Bell,MCCHICKEN,Food
+Cafe Coffee Day,FRENCH FRIES,Food
+Burger Singh,PEPSI,Food
+Burger King,COKE,Food
+McDonalds,ZINGER BURGER,Food
+KFC,HOT WINGS,Food
+Dominos,PIZZA,Food
+Pizza Hut,GARLIC BREAD,Food
+Starbucks,PASTA,Food
+Subway,CAPPUCCINO,Food
+Taco Bell,LATTE,Food
+Cafe Coffee Day,MOCHA,Food
+Burger Singh,CHICKEN SANDWICH,Food
+Burger King,VEG BURGER,Food
+McDonalds,NUGGETS,Food
+KFC,ONION RINGS,Food
+Dominos,MILKSHAKE,Food
+Pizza Hut,ICED COFFEE,Food
+Starbucks,WHOPPER CHS,Food
+Subway,WHOPPER,Food
+Taco Bell,SM FRY,Food
+Cafe Coffee Day,LG FRY,Food
+Burger Singh,SOFT DRINK,Food
+Burger King,REGULAR COMBO,Food
+McDonalds,BIG MAC,Food
+KFC,MCCHICKEN,Food
+Dominos,FRENCH FRIES,Food
+Pizza Hut,PEPSI,Food
+Starbucks,COKE,Food
+Subway,ZINGER BURGER,Food
+Taco Bell,HOT WINGS,Food
+Cafe Coffee Day,PIZZA,Food
+Burger Singh,GARLIC BREAD,Food
+Burger King,PASTA,Food
+McDonalds,CAPPUCCINO,Food
+KFC,LATTE,Food
+Dominos,MOCHA,Food
+Pizza Hut,CHICKEN SANDWICH,Food
+Starbucks,VEG BURGER,Food
+Subway,NUGGETS,Food
+Taco Bell,ONION RINGS,Food
+Cafe Coffee Day,MILKSHAKE,Food
+Burger Singh,ICED COFFEE,Food
+Burger King,WHOPPER CHS,Food
+McDonalds,WHOPPER,Food
+KFC,SM FRY,Food
+Dominos,LG FRY,Food
+Pizza Hut,SOFT DRINK,Food
+Starbucks,REGULAR COMBO,Food
+Subway,BIG MAC,Food
+Taco Bell,MCCHICKEN,Food
+Cafe Coffee Day,FRENCH FRIES,Food
+Burger Singh,PEPSI,Food
+Burger King,COKE,Food
+McDonalds,ZINGER BURGER,Food
+KFC,HOT WINGS,Food
+Dominos,PIZZA,Food
+Pizza Hut,GARLIC BREAD,Food
+Starbucks,PASTA,Food
+Subway,CAPPUCCINO,Food
+Taco Bell,LATTE,Food
+Cafe Coffee Day,MOCHA,Food
+Burger Singh,CHICKEN SANDWICH,Food
+Burger King,VEG BURGER,Food
+McDonalds,NUGGETS,Food
+KFC,ONION RINGS,Food
+Dominos,MILKSHAKE,Food
+Pizza Hut,ICED COFFEE,Food
+Starbucks,WHOPPER CHS,Food
+Subway,WHOPPER,Food
+Taco Bell,SM FRY,Food
+Cafe Coffee Day,LG FRY,Food
+Burger Singh,SOFT DRINK,Food
+Burger King,REGULAR COMBO,Food
+McDonalds,BIG MAC,Food
+KFC,MCCHICKEN,Food
+Dominos,FRENCH FRIES,Food
+Pizza Hut,PEPSI,Food
+Starbucks,COKE,Food
+Subway,ZINGER BURGER,Food
+Taco Bell,HOT WINGS,Food
+Cafe Coffee Day,PIZZA,Food
+Burger Singh,GARLIC BREAD,Food
+Burger King,PASTA,Food
+McDonalds,CAPPUCCINO,Food
+KFC,LATTE,Food
+Dominos,MOCHA,Food
+Pizza Hut,CHICKEN SANDWICH,Food
+Starbucks,VEG BURGER,Food
+Subway,NUGGETS,Food
+Taco Bell,ONION RINGS,Food
+Cafe Coffee Day,MILKSHAKE,Food
+Burger Singh,ICED COFFEE,Food
+Amazon,LAPTOP,Shopping
+Flipkart,HEADPHONES,Shopping
+Walmart,MOUSE,Shopping
+Target,KEYBOARD,Shopping
+Apple,MONITOR,Shopping
+Best Buy,TOOTHPASTE,Shopping
+Nike,SHAMPOO,Shopping
+Adidas,SOAP,Shopping
+IKEA,BEDSHEET,Shopping
+H&M,TOWEL,Shopping
+Amazon,AIRPODS,Shopping
+Flipkart,IPHONE CASE,Shopping
+Walmart,USB CABLE,Shopping
+Target,RUNNING SHOES,Shopping
+Apple,SPORTS SHOES,Shopping
+Best Buy,STUDY TABLE,Shopping
+Nike,CHAIR,Shopping
+Adidas,T SHIRT,Shopping
+IKEA,JEANS,Shopping
+H&M,JACKET,Shopping
+Amazon,POWER BANK,Shopping
+Flipkart,SMART WATCH,Shopping
+Walmart,BACKPACK,Shopping
+Target,NOTEBOOK,Shopping
+Apple,WATER BOTTLE,Shopping
+Best Buy,LAPTOP,Shopping
+Nike,HEADPHONES,Shopping
+Adidas,MOUSE,Shopping
+IKEA,KEYBOARD,Shopping
+H&M,MONITOR,Shopping
+Amazon,TOOTHPASTE,Shopping
+Flipkart,SHAMPOO,Shopping
+Walmart,SOAP,Shopping
+Target,BEDSHEET,Shopping
+Apple,TOWEL,Shopping
+Best Buy,AIRPODS,Shopping
+Nike,IPHONE CASE,Shopping
+Adidas,USB CABLE,Shopping
+IKEA,RUNNING SHOES,Shopping
+H&M,SPORTS SHOES,Shopping
+Amazon,STUDY TABLE,Shopping
+Flipkart,CHAIR,Shopping
+Walmart,T SHIRT,Shopping
+Target,JEANS,Shopping
+Apple,JACKET,Shopping
+Best Buy,POWER BANK,Shopping
+Nike,SMART WATCH,Shopping
+Adidas,BACKPACK,Shopping
+IKEA,NOTEBOOK,Shopping
+H&M,WATER BOTTLE,Shopping
+Amazon,LAPTOP,Shopping
+Flipkart,HEADPHONES,Shopping
+Walmart,MOUSE,Shopping
+Target,KEYBOARD,Shopping
+Apple,MONITOR,Shopping
+Best Buy,TOOTHPASTE,Shopping
+Nike,SHAMPOO,Shopping
+Adidas,SOAP,Shopping
+IKEA,BEDSHEET,Shopping
+H&M,TOWEL,Shopping
+Amazon,AIRPODS,Shopping
+Flipkart,IPHONE CASE,Shopping
+Walmart,USB CABLE,Shopping
+Target,RUNNING SHOES,Shopping
+Apple,SPORTS SHOES,Shopping
+Best Buy,STUDY TABLE,Shopping
+Nike,CHAIR,Shopping
+Adidas,T SHIRT,Shopping
+IKEA,JEANS,Shopping
+H&M,JACKET,Shopping
+Amazon,POWER BANK,Shopping
+Flipkart,SMART WATCH,Shopping
+Walmart,BACKPACK,Shopping
+Target,NOTEBOOK,Shopping
+Apple,WATER BOTTLE,Shopping
+Best Buy,LAPTOP,Shopping
+Nike,HEADPHONES,Shopping
+Adidas,MOUSE,Shopping
+IKEA,KEYBOARD,Shopping
+H&M,MONITOR,Shopping
+Amazon,TOOTHPASTE,Shopping
+Flipkart,SHAMPOO,Shopping
+Walmart,SOAP,Shopping
+Target,BEDSHEET,Shopping
+Apple,TOWEL,Shopping
+Best Buy,AIRPODS,Shopping
+Nike,IPHONE CASE,Shopping
+Adidas,USB CABLE,Shopping
+IKEA,RUNNING SHOES,Shopping
+H&M,SPORTS SHOES,Shopping
+Amazon,STUDY TABLE,Shopping
+Flipkart,CHAIR,Shopping
+Walmart,T SHIRT,Shopping
+Target,JEANS,Shopping
+Apple,JACKET,Shopping
+Best Buy,POWER BANK,Shopping
+Nike,SMART WATCH,Shopping
+Adidas,BACKPACK,Shopping
+IKEA,NOTEBOOK,Shopping
+H&M,WATER BOTTLE,Shopping
+Uber,CAB RIDE,Transport
+Ola,AIRPORT RIDE,Transport
+Metro,UBERX,Transport
+Railway,UBER GO,Transport
+Air India,CITY RIDE,Transport
+Indigo,AIRPORT TRANSFER,Transport
+City Bus,METRO TICKET,Transport
+Parking,TRAIN PASS,Transport
+Taxi Service,TRAIN TICKET,Transport
+Fuel Station,SLEEPER TICKET,Transport
+Uber,FLIGHT TICKET,Transport
+Ola,BOARDING PASS,Transport
+Metro,BUS TICKET,Transport
+Railway,OLA MINI,Transport
+Air India,OLA PRIME,Transport
+Indigo,PETROL,Transport
+City Bus,DIESEL,Transport
+Parking,PARKING FEE,Transport
+Taxi Service,TAXI RIDE,Transport
+Fuel Station,CAB BOOKING,Transport
+Uber,AUTO RIDE,Transport
+Ola,METRO CARD,Transport
+Metro,BUS PASS,Transport
+Railway,FUEL REFILL,Transport
+Air India,TOLL PAYMENT,Transport
+Indigo,CAB RIDE,Transport
+City Bus,AIRPORT RIDE,Transport
+Parking,UBERX,Transport
+Taxi Service,UBER GO,Transport
+Fuel Station,CITY RIDE,Transport
+Uber,AIRPORT TRANSFER,Transport
+Ola,METRO TICKET,Transport
+Metro,TRAIN PASS,Transport
+Railway,TRAIN TICKET,Transport
+Air India,SLEEPER TICKET,Transport
+Indigo,FLIGHT TICKET,Transport
+City Bus,BOARDING PASS,Transport
+Parking,BUS TICKET,Transport
+Taxi Service,OLA MINI,Transport
+Fuel Station,OLA PRIME,Transport
+Uber,PETROL,Transport
+Ola,DIESEL,Transport
+Metro,PARKING FEE,Transport
+Railway,TAXI RIDE,Transport
+Air India,CAB BOOKING,Transport
+Indigo,AUTO RIDE,Transport
+City Bus,METRO CARD,Transport
+Parking,BUS PASS,Transport
+Taxi Service,FUEL REFILL,Transport
+Fuel Station,TOLL PAYMENT,Transport
+Uber,CAB RIDE,Transport
+Ola,AIRPORT RIDE,Transport
+Metro,UBERX,Transport
+Railway,UBER GO,Transport
+Air India,CITY RIDE,Transport
+Indigo,AIRPORT TRANSFER,Transport
+City Bus,METRO TICKET,Transport
+Parking,TRAIN PASS,Transport
+Taxi Service,TRAIN TICKET,Transport
+Fuel Station,SLEEPER TICKET,Transport
+Uber,FLIGHT TICKET,Transport
+Ola,BOARDING PASS,Transport
+Metro,BUS TICKET,Transport
+Railway,OLA MINI,Transport
+Air India,OLA PRIME,Transport
+Indigo,PETROL,Transport
+City Bus,DIESEL,Transport
+Parking,PARKING FEE,Transport
+Taxi Service,TAXI RIDE,Transport
+Fuel Station,CAB BOOKING,Transport
+Uber,AUTO RIDE,Transport
+Ola,METRO CARD,Transport
+Metro,BUS PASS,Transport
+Railway,FUEL REFILL,Transport
+Air India,TOLL PAYMENT,Transport
+Indigo,CAB RIDE,Transport
+City Bus,AIRPORT RIDE,Transport
+Parking,UBERX,Transport
+Taxi Service,UBER GO,Transport
+Fuel Station,CITY RIDE,Transport
+Uber,AIRPORT TRANSFER,Transport
+Ola,METRO TICKET,Transport
+Metro,TRAIN PASS,Transport
+Railway,TRAIN TICKET,Transport
+Air India,SLEEPER TICKET,Transport
+Indigo,FLIGHT TICKET,Transport
+City Bus,BOARDING PASS,Transport
+Parking,BUS TICKET,Transport
+Taxi Service,OLA MINI,Transport
+Fuel Station,OLA PRIME,Transport
+Uber,PETROL,Transport
+Ola,DIESEL,Transport
+Metro,PARKING FEE,Transport
+Railway,TAXI RIDE,Transport
+Air India,CAB BOOKING,Transport
+Indigo,AUTO RIDE,Transport
+City Bus,METRO CARD,Transport
+Parking,BUS PASS,Transport
+Taxi Service,FUEL REFILL,Transport
+Fuel Station,TOLL PAYMENT,Transport

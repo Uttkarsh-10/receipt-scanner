@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+receipt.db
+
+venv/
+.venv/
+reciept-ml/
+
+.DS_Store
+
+*.pkl
